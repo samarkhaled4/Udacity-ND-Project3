@@ -1,10 +1,10 @@
-[![nahla-goda](https://circleci.com/gh/nahla-goda/Udagram.svg?style=svg)](https://app.circleci.com/pipelines/github/nahla-goda/Udagram)
+[![samarkhaled4](https://circleci.com/gh/samarkhaled4/Udacity-ND-Project3.svg?style=svg)](https://app.circleci.com/pipelines/github/samarkhaled4/Udacity-ND-Project3)
 
 
 # Udagram Application
 
 ### **The app is accessible via the link provided.**
-http://hostingudagram.s3-website-us-east-1.amazonaws.com
+http://udagramfront.s3-website-us-east-1.amazonaws.com
 
 ---
 Click here  [screenshots](/screenshots/) to see the Screenshots
